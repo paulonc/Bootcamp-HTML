@@ -33,6 +33,23 @@ body {
     padding: 20px;
 }
 .footer {
+    text-align: center;
     background-color: rgb(99, 56, 240);
     min-height: 150px;
+}
+
+.content {
+    text-align: center;
+}
+
+.lista {
+    text-align: left;
+}
+
+.links {
+    color: #f1f1f1;
+}
+
+.links:hover {
+    color: darkgrey;
 }
