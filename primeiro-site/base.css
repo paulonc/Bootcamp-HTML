@@ -98,7 +98,7 @@ form label, form legend {
 }
 
 
-.botao {
+button{
     width: 20%;
     padding: 15px 0;
     background: #FFA500;
@@ -109,9 +109,29 @@ form label, form legend {
     border-radius: 5px;
     transition: 0.5s all;
     cursor: pointer;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
-.botao:hover {
+.botao-enviar:hover {
     background: #008000;
     transform: scale(1.2);
+}
+
+.botao-limpar:hover {
+    background: #810000;
+    transform: scale(1.2);
+}
+
+#banner {
+    width: 1000px;
+    height: 200px;
+    object-position: right 5%;
+}
+
+
+#banner-sobre {
+    width: 1000px;
+    height: 200px;
+    object-position: right 5%;
 }
