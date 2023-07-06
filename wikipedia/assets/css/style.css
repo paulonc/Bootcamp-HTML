@@ -44,6 +44,11 @@ footer {
     font-size: small;
 }
 
+.container {
+    position: sticky;
+    top: 20px; 
+}
+
 figure {
     text-align: center;
 }
