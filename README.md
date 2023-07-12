@@ -1,4 +1,4 @@
-# Bootcamp HTML DIO - Projetos Iniciais
+# :man_technologist: Bootcamp HTML DIO - Projetos Iniciais
 
 Este repositório contém os projetos desenvolvidos durante o bootcamp HTML Web Developer da DIO (Digital Innovation One)
 
